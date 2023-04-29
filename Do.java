@@ -12,13 +12,13 @@ public static void main(String[] args) {//exit level loop
 			System.out.println(a);
 			
 			a--;
-			
+			b---;
 			
 			
 			
 			
 		} while (a>=40);
-		take a screenshot
+	
 		
 	}
 }
