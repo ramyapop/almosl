@@ -18,9 +18,9 @@ public static void main(String[] args) {//exit level loop
 			
 			
 		} while (a>=40);
-		
+		take a screenshot
 		
 	}
 }
-take a screenshot
+
 
